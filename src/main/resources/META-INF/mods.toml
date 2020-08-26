@@ -7,7 +7,7 @@ version="1.0.0"
 displayName="d&d mod"
 credits="Created using mod maker MCreator - https://mcreator.net/about"
 displayURL="https://mcreator.net"
-authors="Millers, MCreator"
+authors="lightningBolt100, Ironant123, ViperTheLizard"
 
 [[dependencies.dd_mod]]
     modId="minecraft"

@@ -89,7 +89,7 @@
     "modid": "dd_mod",
     "modName": "d\u0026d mod",
     "version": "1.0.0",
-    "author": "Millers, MCreator",
+    "author": "lightningBolt100, Ironant123, ViperTheLizard",
     "websiteURL": "https://mcreator.net",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
@@ -98,6 +98,7 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.15.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
     "modElementsPackage": "net.mcreator.ddmod",
     "lockBaseModFiles": false
   },
